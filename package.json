@@ -1,0 +1,27 @@
+{
+  "name": "Keksobooking",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Личный проект «Кексобукинг» от HTML Academy",
+  "author": "Александр Зубрицкий",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:htmlacademy-javascript/164719-keksobooking.git"
+  },
+  "bugs": {
+    "url": "https://github.com/htmlacademy-javascript/164719-keksobooking/issues"
+  },
+  "homepage": "https://github.com/htmlacademy-javascript/164719-keksobooking",
+  "devDependencies": {
+    "eslint": "3.9.0",
+    "eslint-config-htmlacademy": "0.2.x"
+  },
+  "license": "MIT",
+  "dependencies": {},
+  "scripts": {
+    "test": "eslint js/"
+  },
+  "engines": {
+    "node": "^6.9"
+  }
+}
